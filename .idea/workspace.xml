@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2cce568-f20f-431a-9fcd-2c5067817b99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1flxyYJR6wzJG7NoaG4IMXGI8fk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KonfiguratorDALO/api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\apache24\htdocs\Projekte\KonfiguratorDALO\api" />
+      <recent name="C:\apache24\htdocs\Projekte\KonfiguratorDALO" />
+      <recent name="C:\apache24\htdocs\Projekte\KonfiguratorDALO\app" />
+      <recent name="C:\apache24\htdocs\Projekte\KonfiguratorDALO\app\less" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\apache24\htdocs\Projekte\KonfiguratorDALO\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2cce568-f20f-431a-9fcd-2c5067817b99" name="Default Changelist" comment="" />
+      <created>1596806740289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596806740289</updated>
+      <workItem from="1596806741388" duration="602000" />
+      <workItem from="1597040973500" duration="40000" />
+      <workItem from="1597041289436" duration="4476000" />
+      <workItem from="1597058689440" duration="8001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597041455774">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1597041455774" />
+    <state x="546" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597042030600">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="546" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1597042030600" />
+    <state x="469" y="213" key="EditFileWatcherDialog" timestamp="1597055550949">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="469" y="213" key="EditFileWatcherDialog/0.0.1600.870@0.0.1600.870" timestamp="1597055550949" />
+    <state x="549" y="158" key="NewPhpClassDialog" timestamp="1597066698341">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="549" y="158" key="NewPhpClassDialog/0.0.1600.870@0.0.1600.870" timestamp="1597066698341" />
+    <state x="634" y="358" key="NewPhpFileDialog" timestamp="1597059723261">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="634" y="358" key="NewPhpFileDialog/0.0.1600.870@0.0.1600.870" timestamp="1597059723261" />
+    <state x="301" y="80" key="SettingsEditor" timestamp="1597055551878">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="80" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1597055551878" />
+    <state x="507" y="139" width="640" height="592" key="find.popup" timestamp="1597067364918">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="507" y="139" width="640" height="592" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1597067364918" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1597063019450">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1597063019450" />
+    <state x="592" y="293" key="scopes" timestamp="1597055537751">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="592" y="293" key="scopes/0.0.1600.870@0.0.1600.870" timestamp="1597055537751" />
+  </component>
+</project>
